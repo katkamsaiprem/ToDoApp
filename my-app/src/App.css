@@ -40,3 +40,6 @@
 .read-the-docs {
   color: #888;
 }
+.strike-through{
+  text-decoration:line-through;
+}
